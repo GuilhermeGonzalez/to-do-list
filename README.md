@@ -1,7 +1,3 @@
-<div height="10px">
-  <img width="100%" height="240px" src="./docs/imagem_1.jpg" alt="Front-End Mentor logo">
-</div>
-
 <div align="center">
   <h1>:rocket: To-do-list  </h1>
   <h2>1# Desafio Ignite Trilha React</h2>
