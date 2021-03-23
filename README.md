@@ -12,6 +12,9 @@
 - [x] Remover uma tarefa
 - [x] Marcar e desmarcar uma tarefa como concluida
 
+<h3>Solução<h3>
+  <p align="left">Caso queira testar a solução clique <a href="https://to-do-list-guilhermegonzalez.vercel.app">AQUI</a>.</p>
+
 <h3>Adicionar uma nova tarefa</h3>
 <p align="left">Para está solução foi verificado se o campo do input continha alguma informação antes de realizar a inserção, após passar por esta verificação é gerado um número aleatório para o ID e o elemento é inserido ao final do array de tarefas </p>
 <img width="100%"  src="./docs/imagem_5.jpg" alt="Front-End Mentor logo">
