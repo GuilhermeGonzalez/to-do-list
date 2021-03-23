@@ -1,4 +1,4 @@
-<img width="100%"  src="./docs/Background.png" alt="Front-End Mentor logo">
+<img width="100%"  src="./docs/Background.png" alt="Background ignite">
 <div align="center">
   <h1>:rocket: To-do-list  </h1>
   <h2>1# Desafio Ignite Trilha React</h2>
