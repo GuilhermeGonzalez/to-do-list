@@ -1,31 +1,31 @@
 <img width="100%"  src="./docs/Background.png" alt="Background ignite"> 
 <div align="center">
   <h1>:rocket: To-do-list  </h1>
-  <h2>1# Desafio Ignite Trilha React</h2>
-  <p align="left">Primeiro desafio proposto na trilha de react do Ignite da Rocketseat, neste desafio foi solicitado que aplicassemos o que aprendemos no primeiro modulo com relação ao hook useState. </p>
+  <h2>1# Ignite React Track Challenge</h2>
+  <p align="left">First challenge proposed in the React track of Rocketseat's Ignite. In this challenge, we were asked to apply what we learned in the first module regarding the useState hook.</p>
   
-  <p align="left">Caso queira testar a solução clique <a href="https://to-do-list-guilhermegonzalez.vercel.app">AQUI</a>.</p>
+  <p align="left">If you want to test the solution, click <a href="https://to-do-list-guilhermegonzalez.vercel.app">HERE</a>.</p>
 </div>
 
 <hr/>
 
-## Atividades propostas
-- [x] Adicionar uma nova tarefa
-- [x] Remover uma tarefa
-- [x] Marcar e desmarcar uma tarefa como concluida
+## Proposed Activities
+- [x] Add a new task
+- [x] Remove a task
+- [x] Mark and unmark a task as completed
 
 
 
-<h3>Adicionar uma nova tarefa</h3>
-<p align="left">Para está solução foi verificado se o campo do input continha alguma informação antes de realizar a inserção, após passar por esta verificação é gerado um número aleatório para o ID e o elemento é inserido ao final do array de tarefas </p>
+<h3>Add a new task</h3>
+<p align="left">For this solution, it was checked if the input field contained any information before insertion. After this verification, a random number is generated for the ID, and the element is inserted at the end of the tasks array.</p>
 <img width="100%"  src="./docs/imagem_5.jpg" alt="Front-End Mentor logo">
 <img width="100%"  src="./docs/imagem_2.jpg" alt="Front-End Mentor logo">
-<h3>Remover uma tarefa</h3>
-<p align="left">Nesta está solução basicamente foi aplicado um filter para ignorar o elemento do array que continha o id desejado a ser excluido, sendo assim aplicando o setTasks com o resultado do metodo filter</p>
+<h3>Remove a task</h3>
+<p align="left">In this solution, a filter was basically applied to ignore the element of the array containing the desired id to be excluded, thus applying setTasks with the result of the filter method.</p>
 <img width="100%"  src="./docs/imagem_3.jpg" alt="Front-End Mentor logo">
 <img width="100%"  src="./docs/imagem_4.jpg" alt="Front-End Mentor logo">
-<h3>Marcar e desmarcar uma tarefa como concluida</h3>
-<p align="left">Já nesta solução foi aplicado um if ternário apenas para inverter o valor booleano do isComplete da task, após localiza-la com uma função map</p>
+<h3>Mark and unmark a task as completed</h3>
+<p align="left">In this solution, a ternary if statement was applied just to invert the boolean value of the task's isComplete, after locating it with a map function.</p>
 <img width="100%"  src="./docs/imagem_2.jpg" alt="Front-End Mentor logo">
 
 
@@ -33,4 +33,5 @@
 
 ## Giving feedback
 
-Feedback é sempre bem-vindo, se você tiver qualquer sugestão ou duvida por favor me enviar um e-mail: gcgonzalez99@hotmail.com
+Feedback is always welcome, if you have any suggestions or questions please send me an email: gcgonzalez99@hotmail.com
+
